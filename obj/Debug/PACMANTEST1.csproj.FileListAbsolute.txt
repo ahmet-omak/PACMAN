@@ -1,0 +1,10 @@
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\bin\Debug\PACMANTEST1.exe.config
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\bin\Debug\PACMANTEST1.exe
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\bin\Debug\PACMANTEST1.pdb
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\obj\Debug\PACMANTEST1.csprojAssemblyReference.cache
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\obj\Debug\PACMANTEST1.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\obj\Debug\PACMANTEST1.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\obj\Debug\PACMANTEST1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\obj\Debug\PACMANTEST1.exe
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\obj\Debug\PACMANTEST1.pdb
+C:\Users\ahmet\OneDrive\Desktop\.Net\PACMANTEST1\obj\Debug\PACMAN.Form1.resources
